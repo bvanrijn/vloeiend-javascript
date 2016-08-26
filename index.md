@@ -5,7 +5,7 @@ Dit is een boek over JavaScript, programmeren en de wonderen van de digitale wer
 
 Geschreven door Marijn Haverbeke, vertaald door Barend et al.
 
-In licentie onder de regels van [http://creativecommons.org/licenses/by-nc/3.0/](Creative Commons Naamsvermelding-NietCommercieel 3.0 Unported). De code is gelicentieerd onder de [MIT-licentie](http://opensource.org/licenses/MIT).
+In licentie onder de regels van [Creative Commons Naamsvermelding-NietCommercieel 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/). De code is gelicentieerd onder de [MIT-licentie](http://opensource.org/licenses/MIT).
 
 De [2e editie in het Engels](http://eloquentjavascript.net/) is mogelijk gemaakt door [454 geldschieters](http://eloquentjavascript.net/backers.html), in het bijzonder [Mozilla](https://www.mozilla.org/nl/), [Hack Reactor](https://www.mozilla.org/nl/) en [Ghostery](https://www.ghostery.com/).
 
