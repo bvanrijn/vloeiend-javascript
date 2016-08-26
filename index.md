@@ -12,7 +12,7 @@ De [2e editie in het Engels](http://eloquentjavascript.net/) is mogelijk gemaakt
 ## Inhoud
 
 ### Deel I, de taal
-* [Introductie](Introductie.html)
+* [Introductie](Introductie.md)
 * Waarden, types, en operators
 * Structuur van een programma
 * Functies
