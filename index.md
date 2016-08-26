@@ -1,7 +1,7 @@
 # Vloeiend JavaScript
 *2e editie*
 
-Dit is een boek over JavaScript, programmeren en de wonderen van de digitale wereld. Je kunt het hier online lezen, of een [paperback kopen](http://www.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5).
+Dit is een boek over JavaScript, programmeren en de wonderen van de digitale wereld. Je kunt het hier online lezen, of een [paperback van de Engelse editie kopen](http://www.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5).
 
 Geschreven door Marijn Haverbeke, vertaald door Barend et al.
 
